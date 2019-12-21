@@ -1,3 +1,119 @@
 <resources>
     <string name="app_name">Comunicare</string>
+    <string name="button_text">Speak Text</string>
+    <string name="button_clear">Clear Screen</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Whiteboard</string>
+    <string name="title_notifications">Phrases</string>
+    <string name="write_here">Write here to communicate</string>
+
+    <!-- phrases categories -->
+
+    <string-array name="categories">
+        <item>Feeling</item>
+        <item>Home</item>
+        <item>Work</item>
+        <item>Medical</item>
+        <item>Food</item>
+        <item>Activity</item>
+        <item>Common</item>
+        <item>Emergency</item>
+    </string-array>
+
+    <!-- most important phrases to communicate -->
+    <string-array name="feeling">
+        <item>"How are you?"</item>
+        <item>"Im doing good!"</item>
+        <item>"Nice to meet you"</item>
+        <item>"What time is it?"</item>
+        <item>"Good morning"</item>
+        <item>"Good afternoon"</item>
+        <item>"Good bye!"</item>
+    </string-array>
+
+    <string-array name="home">
+        <item>"My number is 305 555 8999"</item>
+        <item>"My name is John"</item>
+        <item>"How are you?"</item>
+        <item>"Im doing good!"</item>
+        <item>"Nice to meet you"</item>
+        <item>"What time is it?"</item>
+        <item>"Good morning"</item>
+        <item>"Good afternoon"</item>
+        <item>"Good bye!"</item>
+    </string-array>
+
+    <string-array name="work">
+        <item>"My number is 305 555 8999"</item>
+        <item>"My name is John"</item>
+        <item>"How are you?"</item>
+        <item>"Im doing good!"</item>
+        <item>"Nice to meet you"</item>
+        <item>"What time is it?"</item>
+        <item>"Good morning"</item>
+        <item>"Good afternoon"</item>
+        <item>"Good bye!"</item>
+    </string-array>
+
+    <string-array name="medical">
+        <item>"My number is 305 555 8999"</item>
+        <item>"My name is John"</item>
+        <item>"How are you?"</item>
+        <item>"Im doing good!"</item>
+        <item>"Nice to meet you"</item>
+        <item>"What time is it?"</item>
+        <item>"Good morning"</item>
+        <item>"Good afternoon"</item>
+        <item>"Good bye!"</item>
+    </string-array>
+
+    <string-array name="food">
+        <item>"My number is 305 555 8999"</item>
+        <item>"My name is John"</item>
+        <item>"How are you?"</item>
+        <item>"Im doing good!"</item>
+        <item>"Nice to meet you"</item>
+        <item>"What time is it?"</item>
+        <item>"Good morning"</item>
+        <item>"Good afternoon"</item>
+        <item>"Good bye!"</item>
+    </string-array>
+
+    <string-array name="activity">
+        <item>"Let's go for a walk"</item>
+        <item>"My name is John"</item>
+        <item>"How are you?"</item>
+        <item>"Im doing good!"</item>
+        <item>"Nice to meet you"</item>
+        <item>"What time is it?"</item>
+        <item>"Good morning"</item>
+        <item>"Good afternoon"</item>
+        <item>"Good bye!"</item>
+    </string-array>
+
+    <string-array name="common">
+        <item>"How are you?"</item>
+        <item>"Im doing good!"</item>
+        <item>"Nice to meet you"</item>
+        <item>"What time is it?"</item>
+        <item>"What is your name?"</item>
+        <item>"See you tomorrow"</item>
+        <item>"Good afternoon"</item>
+        <item>"Good morning"</item>
+        <item>"Good evening"</item>
+        <item>"Good night"</item>
+        <item>"Good bye!"</item>
+    </string-array>
+
+    <string-array name="emergency">
+        <item>"Call 911, please"</item>
+        <item>"I need help"</item>
+        <item>"Im doing good!"</item>
+        <item>"Nice to meet you"</item>
+        <item>"What time is it?"</item>
+        <item>"Good morning"</item>
+        <item>"Good afternoon"</item>
+        <item>"Good bye!"</item>
+    </string-array>
+
 </resources>
