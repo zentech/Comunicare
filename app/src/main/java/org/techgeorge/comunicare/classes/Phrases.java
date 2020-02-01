@@ -16,6 +16,7 @@ public class Phrases {
     public static Map<String, ArrayList<String>> allPhrases = new HashMap<>();
     private static boolean execute = false;
     private Phrases() {
+        
     }
 
 
